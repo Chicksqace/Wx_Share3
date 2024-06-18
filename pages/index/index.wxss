@@ -1,0 +1,49 @@
+/**index.wxss**/
+.huandeng image{
+width: 100%;
+height: 380rpx;
+}
+.biaoti{
+font-size: 22px;
+font-weight: bold;
+}
+
+.xing image{
+  width: 250rpx;
+  height: 60rpx;
+}
+
+.fuwu{
+  font-size: 16px;
+  color: #666;
+  height: 60rpx;
+}
+
+.bo1 button{
+  text-align: left;
+}
+
+.bo1 image{
+width: 60rpx;
+height: 60rpx;
+margin-top: 5px;
+}
+.nr2 image{
+width: 100%;
+height: 580rpx;
+}
+
+.nr3 image{
+width: 100%;
+height: 680rpx;
+}
+
+.nr4 image{
+width: 100%;
+height: 680rpx;
+}
+
+.nr5 image{
+width: 100%;
+height:580rpx;
+}

@@ -1,0 +1,40 @@
+<!--index.wxml-->
+<view class='huandeng'>
+<image src='/image/1.jpg'></image>
+</view>
+
+<view class='biaoti'>
+<text>母婴生活馆</text>
+</view>
+<view class='xing'>
+<image src='/image/xing.jpg'></image>
+</view>
+<view class='fuwu'>
+<text>服务：4.8 环境：4.8 产品：4.9</text>
+</view>
+<view class='fuwu'>
+<text>营业时间：8：00-24：00</text>
+</view>
+
+
+<view class='bo1'>
+<view>
+<button type="default" bindtap="calling"><image src='/image/a1.png'></image>电话:400-0000-000</button>
+</view>
+<view>
+<button type="default" bindtap="openMap"><image src='/image/a2.png'></image>深圳市龙岗区小吃街58号</button>
+</view>
+</view>
+
+<view class="nr2">
+    <image src="/image/2.jpg"></image>
+</view>
+<view class="nr3">
+    <image src="/image/3.jpg"></image>
+</view>
+<view class="nr4">
+    <image src="/image/4.jpg"></image>
+</view>
+<view class="nr5">
+    <image src="/image/5.jpg"></image>
+</view>
